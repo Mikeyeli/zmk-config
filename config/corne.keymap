@@ -17,7 +17,7 @@
    &kp LCTL &kp Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp CMMA &kp DOT &kp FSLH &kp RSFT
                    &kp LGUI &mo 1 &kp SPC   &kp RET &mo 2 &kp RALT
                         >;
-                }; 2e
+                };
                 lower_layer {
 // -----------------------------------------------------------------------------------------
 // |  ESC |  1  |  2  |  3  |  4  |  5  |   |  6  |  7  |  8  |  9  |  0  | BKSP |
@@ -41,7 +41,7 @@
                         bindings = <
    &kp  ESC &kp BANG  &kp ATSN  &kp HASH  &kp CURU  &kp PRCT    &kp CRRT  &kp AMPS &kp KMLT &kp LPRN &kp RPRN &kp BKSP
    &kp LSFT &trans    &trans    &trans    &trans    &trans      &kp MINUS &kp EQL  &kp LBKT &kp RBKT &kp PIPE &kp GRAV
-   &kp LCTL &trans    &trans    &trans    &trans    &trans      &trans &trans &trans   &trans   &kp BSLH &kp TILD
+   &kp LCTL &trans    &trans    &trans    &trans    &trans      &trans    &trans   &trans   &trans   &kp BSLH &kp TILD
                                       &kp LGUI &trans &kp SPC   &kp RET &trans &kp RALT 
                         >;
                 };
